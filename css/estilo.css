@@ -1,8 +1,28 @@
-#calc{
-    background-color: aqua;
-}
-#calc{
-    background-color: black;
-    color:aquamarine
+body{
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fsoundcloud.com%2Fdj-xpr-guest-mix%2Fdubstep-2012-king-of-dubstep&psig=AOvVaw2rKRYvCFmjRkayZHrkpJIG&ust=1712058950931000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCC3N_6oIUDFQAAAAAdAAAAABAJ);
     
+    background-color: rgb(113, 74, 255)
+
 }
+ 
+    
+    #calc{
+    
+    background-color: pink;
+}
+#calc:hover{
+    background-color: rgb(191, 236, 149);
+    color:rgb(34, 79, 175)
+   
+}
+#resultado{
+    font-size: 25px;
+    color:blue
+
+}
+linearGradient{
+    color: aquamarine;
+    color: blueviolet;
+    color: pink;
+}
+
